@@ -4,4 +4,4 @@
 
 GitHub上のリポジトリは[ここ](https://github.com/AngusM1975/gitstudy "AngusM1975/gitsudy")です
 
-**このgithub上で直接編集し、コミット予定***
+**このgithub上で直接編集し、コミット予定**
