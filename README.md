@@ -6,7 +6,7 @@ GitHub上のリポジトリは[ここ](https://github.com/AngusM1975/gitstudy "A
 
 **この行をローカルで追加しコミット**
 
-ローカルからプルして、予定通り衝突したので、とりあえずローカル側を採用
+ローカルからプルして、予定通り衝突したので、とりあえずローカル側を採用  
 README.md.BASE.md  
 README.md.LOCAL.md  
 README.md.REMOTE.md  
