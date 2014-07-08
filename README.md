@@ -5,3 +5,5 @@
 GitHub上のリポジトリは[ここ](https://github.com/AngusM1975/gitstudy "AngusM1975/gitsudy")です
 
 **この行をローカルで追加しコミット**
+
+予定通り衝突したので、とりあえずローカル側を採用
